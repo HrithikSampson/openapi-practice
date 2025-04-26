@@ -1,0 +1,5 @@
+.env
+node_modules
+*.m4a
+*.mp3
+*embeddings.json
