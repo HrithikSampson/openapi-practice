@@ -12,7 +12,8 @@
     "edit-image": "tsx src/edit-image.ts",
     "text-to-speech": "tsx src/text-to-speech.ts",
     "generate-embeddings": "tsx src/generate-embeddings.ts",
-    "similarity": "tsx src/similarity.ts"
+    "similarity": "tsx src/similarity.ts",
+    "chromadb": "tsx src/chroma.ts"
   },
   "author": "",
   "license": "ISC",
