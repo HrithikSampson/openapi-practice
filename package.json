@@ -13,14 +13,19 @@
     "text-to-speech": "tsx src/text-to-speech.ts",
     "generate-embeddings": "tsx src/generate-embeddings.ts",
     "similarity": "tsx src/similarity.ts",
-    "chromadb": "tsx src/chroma.ts"
+    "chromadb": "tsx src/chroma.ts",
+    "langchain": "tsx src/langchain.ts",
+    "langchain-template": "tsx src/langchain-template.ts",
+    "langchain-parser": "tsx src/langchain-parser.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/community": "^0.3.41",
     "chromadb": "^2.3.0",
     "chromadb-default-embed": "^2.14.0",
     "dotenv": "^16.5.0",
+    "langchain": "^0.3.24",
     "openai": "^4.96.0"
   },
   "devDependencies": {
