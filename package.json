@@ -16,7 +16,8 @@
     "chromadb": "tsx src/chroma.ts",
     "langchain": "tsx src/langchain.ts",
     "langchain-template": "tsx src/langchain-template.ts",
-    "langchain-parser": "tsx src/langchain-parser.ts"
+    "langchain-parser": "tsx src/langchain-parser.ts",
+    "langchain-trial": "tsx src/langchain-trial.ts"
   },
   "author": "",
   "license": "ISC",
